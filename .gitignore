@@ -1,0 +1,17 @@
+# Binaries
+/retrace
+*.test
+
+# Build artifacts
+/dist/
+
+# Go
+vendor/
+
+# Local index data (never commit a user's index)
+/retrace.db
+
+# Editor and OS files
+.DS_Store
+.idea/
+*.swp
